@@ -5,9 +5,9 @@
 //2) import { PlacaMae, Memoria, PlacaDeVideo } from './components/atividade01/Questões02/MeuPC';
 
 /*
-  <PlacaMae nome="ASUS Prime B450M" preco={450} />
-  <Memoria nome="Corsair Vengeance LPX 16GB" preco={300} />
-  <PlacaDeVideo nome="NVIDIA GeForce RTX 3060 Ti" preco={2500} />
+  <PlacaMae nome="Micro ATX" preco={450} />
+  <Memoria nome="Flash ROX 16GB" preco={400} />
+  <PlacaDeVideo nome="NVIDIA GeForce RTX 3060 Ti" preco={3500} />
 */
 
 import React from 'react';
