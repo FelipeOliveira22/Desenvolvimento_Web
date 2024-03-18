@@ -1,4 +1,3 @@
-// Batalha.jsx
 import React from 'react';
 import pokemon1 from './Imagens/pokemon1.png'; 
 import pokemon4 from './Imagens/pokemon4.png'; 
